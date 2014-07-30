@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  MessagesViewController.h
 //  Worknal
 //
 //  Created by Matt Kuhn on 7/9/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UIViewController
+@interface MessagesViewController : UIViewController
 
 @end

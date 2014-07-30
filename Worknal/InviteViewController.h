@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  InviteViewController.h
 //  Worknal
 //
 //  Created by Matt Kuhn on 7/9/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
+@interface InviteViewController : UIViewController
 
 @end
